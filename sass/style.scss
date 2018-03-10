@@ -1,0 +1,18 @@
+/*
+Theme Name: GB3 Final
+Theme URI: https://wordpress.org/
+Author: Matt & Gabe
+Author URI: https://wordpress.org/
+Description: Custom responsive theme for Gracie Barra Boston 2017
+Version: 1.0
+License: Gracie Barra Boston Exclusive
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: Jiu Jitsu
+*/
+@import "lib/bootstrap";
+@import "lib/aos";
+@import "src/base";
+@import "src/schedule";
+@import "src/grid";
+@import "src/freetrial";
+@import "src/mobile";
