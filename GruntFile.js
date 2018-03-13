@@ -5,7 +5,7 @@ module.exports = function(grunt) {
     cssmin: {
       target: {
         files: {
-          'wp-content/themes/theordervescompany/style.css': ['css/*.css']
+          'wp-content/themes/storefront/custom-styles.css': ['css/*.css']
         }
       }
     },
@@ -15,7 +15,7 @@ module.exports = function(grunt) {
           expand: true,
           cwd: 'sass/',
           src: ['*.scss'],
-          dest: 'wp-content/themes/theordervescompany/',
+          dest: 'wp-content/themes/storefront/',
           ext: '.css',
           extDot: 'last'
         }]
