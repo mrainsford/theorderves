@@ -1,0 +1,80 @@
+2018-03-11T23:37:27+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(52): do_action('woocommerce_sho...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /U
+
+2018-03-11T23:37:29+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(52): do_action('woocommerce_sho...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /U
+
+2018-03-11T23:37:30+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(52): do_action('woocommerce_sho...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /U
+
+2018-03-13T01:25:03+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(53): do_action('woocommerce_pro...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /Use
+
+2018-03-13T01:25:06+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(53): do_action('woocommerce_pro...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /Use
+
+2018-03-13T01:26:46+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(53): do_action('woocommerce_pro...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /Use
+
+2018-03-13T01:26:48+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(53): do_action('woocommerce_pro...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /Use
+
+2018-03-13T01:27:36+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on string in /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2752
+Stack trace:
+#0 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(286): wc_display_product_attributes('')
+#1 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/templates/content-product.php(53): do_action('woocommerce_pro...')
+#4 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-includes/template.php(690): require('/Users/mrainsfo...')
+#5 /Users/mrainsford/Desktop/Personal/orderves/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(180): load_template('/Users/mrainsfo...', false)
+#6 /Use
+
