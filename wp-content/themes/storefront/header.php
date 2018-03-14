@@ -16,6 +16,11 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <?php wp_head(); ?>
 <link rel="stylesheet" type="text/css" href="<?php echo get_bloginfo('template_url') ?>/custom-styles.css">
+<script src="https://use.typekit.net/ik/nSfiRyegor4OAsCvF1bU_qBxH5v6soSzc7kmi9ZKodIfe7jffO2bhbIPH2wuFR9hwQZLweZKFeJX52SXFQsRFDqhjh4cwDyqZewXF2quZRqXZeJ-XMI7O1sGZANkZemkicmDjhNlSeB0pPoRdhXC-AoKScNaShmkZAsTie80ZkoyZeNKZPoRdhXC-AoKScNaShmkZAsTie80ZkoliWF8SY48ScmCZABDZPoRdhXCiey8da4qZW4hZWFRdhu3jAooOcFzdPUaiaS0-AoKScNaShmkZAsTie80ZkoyZeNKZPoRdhXCiaiaOc80j14ziaF8Scmq-WsTdcS0dWmDZWgkZW48demySh90jhNlOYiaikoX-emzScs8S1Z8ShFzdWgyd1q0jhNlJ6TKdhszdcqliW4aH6qJ6B6bMg6VJM4HgIuuShAbML7RUFwB.js" type="text/javascript"></script>
+<!-- Other scripts -->
+<script type="text/javascript">
+	try {Typekit.load();} catch(e) {}
+</script>
 </head>
 
 <body <?php body_class(); ?>>
