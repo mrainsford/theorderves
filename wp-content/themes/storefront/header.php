@@ -34,7 +34,7 @@
 		<div class="col-full">
 			<!-- @TODO SOCIAL LINKS -->
 			<!-- @TODO HEADER IMAGE*/ -->
-			<!-- @TODO TOP NAVIGATION*/ -->
+			<img class="logoImage" src="<?php echo get_bloginfo('template_url') ?>/images/ordervesorangelogo.png">
 			<div class="navigation">
 				<a href="/index.php/store">the menu</a>
 				<a href="index.php/how-it-works/">how it works</a>
