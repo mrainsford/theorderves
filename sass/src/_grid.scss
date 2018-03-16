@@ -97,3 +97,23 @@
     background-size: cover;
   }
 }
+
+.left-top, .middle-top, .right-top {
+  display: inline-block;
+  height: 248px;
+  width: 23%;
+  overflow: hidden;
+  position: relative;
+  img {
+    height: auto;
+    border-radius: 0;
+    width: 100%;
+    object-fit: cover;
+    padding: 0;
+  }
+}
+
+.middle-top {
+  width: 54%;
+  padding: 0 .5%;
+}
