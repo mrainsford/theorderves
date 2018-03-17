@@ -36,11 +36,11 @@
 			<!-- @TODO HEADER IMAGE*/ -->
 			<img class="logoImage" src="<?php echo get_bloginfo('template_url') ?>/images/ordervesorangelogo.png">
 			<div class="navigation">
-				<a href="/index.php/store">the menu</a>
-				<a href="index.php/how-it-works/">how it works</a>
-				<a href="/index.php/meet-the-chef">meet the chef</a>
-				<a href="/index.php/products">products</a>
-				<a href="/index.php/get-in-touch">get in touch</a>
+				<a href="/index.php/store" <?php if(strpos($home_url, 'shop')){ ?>class="curr-page"<?php }?>)>the menu</a>
+				<a href="index.php/how-it-works/" <?php if(strpos($home_url, 'how-it-works')){ ?>class="curr-page"<?php }?>>how it works</a>
+				<a href="/index.php/meet-the-chef" <?php if(strpos($home_url, 'meet-the-chef')){ ?>class="curr-page"<?php }?>>meet the chef</a>
+				<a href="/index.php/products" <?php if(strpos($home_url, 'products')){ ?>class="curr-page"<?php }?>>products</a>
+				<a href="/index.php/get-in-touch" <?php if(strpos($home_url, 'get-in-touch')){ ?>class="curr-page"<?php }?>>get in touch</a>
 			</div>
 			<?php
 			/**
